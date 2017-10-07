@@ -1,5 +1,5 @@
 # Calculator
-[Link to gh-pages](http://andreyelek.github.io/calculator)<br>
+[Link to gh-pages](http://andreyelek.github.io/calculator-test)<br>
 ## Available Scripts
 
 In the project directory, you can run:
